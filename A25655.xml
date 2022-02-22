@@ -1,0 +1,743 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anti-Cotton answered who comes with five hundred questions against two and twenty of the Examiner examind and yet leaves it out of the question that the magistrate ought to suppresse idolatry &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 81 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25655</idno>
+            <idno type="STC">Wing A3488</idno>
+            <idno type="STC">ESTC R26486</idno>
+            <idno type="EEBO-CITATION">09479790</idno>
+            <idno type="OCLC">ocm 09479790</idno>
+            <idno type="VID">43246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1299:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anti-Cotton answered who comes with five hundred questions against two and twenty of the Examiner examind and yet leaves it out of the question that the magistrate ought to suppresse idolatry &amp;c.</title>
+               </titleStmt>
+               <extent>[2], 35 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to a pamphlet attacking John Cotton.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cotton, John, 1584-1652.</term>
+               <term>Examiner examind.</term>
+               <term>Church and state.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43246:1"/>
+            <p>ANTI-COTTON ANSWERED. Who comes with five hundred Que<g ref="char:EOLhyphen"/>ſtions againſt two and twenty of the <hi>Examiner Examind,</hi> and yet leaves it out of Queſtion, <hi>That the Magi<g ref="char:EOLhyphen"/>ſtrate ought to ſuppreſſe</hi> IDOLATRY, &amp;c.</p>
+            <q>
+               <bibl>
+                  <hi>JOB 31.28.</hi>
+               </bibl>
+               <p>This alſo were an Iniquity to be puniſhed by the Judge; for I ſhould have denyed the God that is above.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>ROM. 13.3, 4.</hi>
+               </bibl>
+               <p>The Magistrate ought to be a terrour to evill workers.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 PET. 4.3.</hi>
+               </bibl>
+               <p>But Idolatry is an evill worke <hi>[per eminen<g ref="char:EOLhyphen"/>tiam]</hi> Therefore the Magiſtrate ought to be a terrour to Idolatry.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>John Wright,</hi> dwelling at the <hi>Kings-Head</hi> in the <hi>Old-Bayley</hi> 1653.</p>
+         </div>
+         <div type="ro_reader">
+            <pb facs="tcp:43246:2"/>
+            <pb facs="tcp:43246:2"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the <hi>Queſtion</hi> is come down the Staires, and delivered over by him that firſt awakt it to a ſecond; The <hi>Author</hi> of the <hi>Examiner Examind</hi> may think it a juſt reaſon for him<g ref="char:EOLhyphen"/>ſelfe to doe the like.</p>
+            <p>Accordingly I have taken upon me as a ſe<g ref="char:EOLhyphen"/>cond to anſwer that ſecond; though in truth there is very little in his diſcourſe that hath need of anſwering, the chiefeſt of his matters having beene already foild in <hi>New Eng<g ref="char:EOLhyphen"/>land,</hi> and the reſt being but frothy words and impertinent divaga<g ref="char:EOLhyphen"/>tions, miſtakes of the <hi>Queſtioner,</hi> frivolous <hi>Queſtions,</hi> and full of contradictions.</p>
+            <p>His words would better become a Play, then ſober Truth, who contents her ſelfe within a modeſt comely habit; nay ſhe had rather be <hi>Nuda</hi> then <hi>fucata.</hi> And though ſhe ſpeaks plaine <hi>Engliſh,</hi> yet abhors ſcurrilouſneſſe and railings.</p>
+            <p>How many long-land digreſſions doth this <hi>Author</hi> make in his Booke. He muſt goe out of his way to meet <hi>Tythes,</hi> and to fall upon the Miniſtry &amp;c. Indeed I thinke he is never out of his way, for I am of opinion that he never propoſed any to himſelfe, not knowing whither his unruly fancy would lead him when he puts pen to Paper.</p>
+            <p>His miſtakings of thoſe ſhort <hi>Queſtions</hi> are groſſe and fre<g ref="char:EOLhyphen"/>quent, ſometimes adding to them, ſometimes diminiſhing them, and grounds many of his <hi>Queſtions</hi> upon his owne miſtakes, as you have inſtanced in this enſuing diſcourſe. Beſides, he is miſtaken in
+<pb facs="tcp:43246:3"/>his whole diſcourſe; there being nothing in the <hi>Queſtion</hi> that puts <hi>Magiſtrates</hi> upon forcing of conſciences; and puniſhing misbeliefe or unbeliefe, but externall acts as Idolatry and Blaſpemy, and in<g ref="char:EOLhyphen"/>fection by communicating of Hereſie.</p>
+            <p>Neither is there any thing in the <hi>Queſtions</hi> to put the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate</hi> upon waging war with <hi>Turks</hi> or <hi>Jews</hi> upon the account of Religion. And for the <hi>Magiſtrates</hi> judgeing of <hi>Hereſie,</hi> the firſt <hi>Queſtion</hi> of the ſecond <hi>Examiner</hi> doth tax it by way of ſuppoſall. That the <hi>Magiſtrate</hi> doth know the ſaving truth and his judge<g ref="char:EOLhyphen"/>ment right in it, and then whether it's not his duty to cauſe it to be propogated by Lawes,<note place="margin">Pag. 41.</note> by maintenance, and ſuppreſſing the out<g ref="char:EOLhyphen"/>ward Acts that are contrary: Here is no occaſion given for ſuſpen<g ref="char:EOLhyphen"/>ding of <hi>Magiſtrates,</hi> or for <hi>Pagans</hi> or <hi>Turks</hi> to act in Religious matters; for the <hi>Queſtioner</hi> ſpeaks of onely ſuch as know the truth. How many frivolous <hi>Queſtions,</hi> as what would we doe if <hi>Chriſt</hi> ſhould be born againe amongſt us, &amp;c. I am loath to caſt about how to order things that are impoſſible to be,<note place="margin">Pag. 53.</note> I leave this worke to idle melancholy braines. But I thinke if this <hi>Author</hi> had lived when <hi>Chriſt</hi> was borne, he would not have owned him, becauſe he little reſpects <hi>Moſes</hi> and the <hi>Prophets.</hi> His Contradictions are many, and ſuch as deſtroy his owne Tenet. He confeſſes all <hi>Kings, Queenes, Judges</hi> in the World ought to be nurſing Fathers and Mothers to <hi>Chriſt</hi> and his Followers;<note place="margin">Pag. 3.</note> and yet this muſt be no truth when it's ſpoken by another, but he'le queſtion it; Is not this to be guilty of a Spirit of Contradiction.</p>
+            <p>I ſhall no longer Epiſtolize the <hi>Reader,</hi> keeping him from the peruſall of the enſuing Diſcourſe, onely I deſire him to take notice, that this <hi>Defendant</hi> of the firſt <hi>Examiner</hi> being much given to repetitions in his booke. His clamorous Arguments doe occur al<g ref="char:EOLhyphen"/>moſt in every Page, yet though the <hi>Defendant</hi> ſpeake four times the ſame thing, I anſwer the ſame thing but once; after once Anſwering eſteeming his Arguments when I meet them not to be alive againe, but onely apparitions or Ghoſts of Reaſon walking in a vaine ſhad<g ref="char:EOLhyphen"/>dow.</p>
+            <p>If any thing ſeem doubtfull in the <hi>Replies,</hi> ſome following queſti<g ref="char:EOLhyphen"/>on or othe will helpe to explaine it, ſo that by the helpe of compar<g ref="char:EOLhyphen"/>ing one place with another the <hi>Reader</hi> may be ſatisfied.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:43246:3"/>
+            <head>Anti-Cotton <hi>Anſwered.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HIS Defendant goes out top-gallant with his Rhetoricall Sayles hoiſted up; as ſoone as he comes to the maine, I'le encounter him, in the In<g ref="char:EOLhyphen"/>terim I'le buſie my ſelfe in queſtio<g ref="char:EOLhyphen"/>ning his ſetting forth.</p>
+            <p>
+               <hi>I aſke,</hi>
+            </p>
+            <p>
+               <hi>Qu.</hi> 1. Whether he thinks that the Army fought for liberty in Idolatry,<note place="margin">Pa. <hi>4.</hi>
+               </note> Hereſy and Blaſ<g ref="char:EOLhyphen"/>phemy, and did proſper for this.</p>
+            <p>
+               <hi>Q.</hi> 2. Whether ſuch a Soul-freedome being granted to every man as he points out <hi>Pag.</hi> 5. would be a meanes to preſerve the <hi>Common-wealth;</hi>
+               <note place="margin">Pa. <hi>5.</hi>
+               </note> or not rather kindle a deſire and an endeavour in the <hi>Commonalty</hi> after the obtaining of ſuch a liberty for their Bodyes and Eſtates as is granted them for their Soules, <hi>viz.</hi> that they might maintaine whom they pleaſed to rule them according to their abili<g ref="char:EOLhyphen"/>ties and conſciences; which being granted in a ſhort time <hi>Actum erit de Rep.</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> Whether he can militate for a toleration of the two great evils, Idolatry and Hereſy; and hang out a Flag with this <hi>Motto,</hi> Soule-freedome. Whereas liberty in what<g ref="char:EOLhyphen"/>ſoever is evill the Scripture terms bondage.</p>
+            <p>Now he is come forth: let us heare what he can ſay a<g ref="char:EOLhyphen"/>gainſt theſe maine Queſtions; I'le firſt propoſe the queſti<g ref="char:EOLhyphen"/>ons in their order, and then give a briefe yet full ſumme of his ſeverall Anſwers; and then ſubjoyne a Reply, vin<g ref="char:EOLhyphen"/>dicating thoſe ſerious Queſtions from his triviall Queſti<g ref="char:EOLhyphen"/>onings.</p>
+            <div n="1" type="question">
+               <pb n="2" facs="tcp:43246:4"/>
+               <head>Queſtion 1.</head>
+               <p>Whether a <hi>Magiſtrate</hi> that knowes the Doctrine of Salvation by <hi>Chriſt Jeſus,</hi> doe fulfill the Office of a Nurſing Father, if he doe not cauſe this ſaving Food to be given to his Children; and Poyſon, that is a contrary Doctrine to be kept from them?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1.<note place="margin">
+                        <hi>Pa.</hi> 7.8.10.</note> Whether this Prophecy (<hi>If.</hi> 49.23.) is not fixt to the diſtinct Nation of the <hi>Jewes,</hi> by (verſ. 22) of this Chapter.</p>
+                  <p n="2">2. Whether theſe Kings and Queenes muſt needs be ſuch ſpirituall Fathers as <hi>Paul</hi> was.</p>
+                  <p>Theſe two Queſtions joyning iſſue make up his ſixt Queſtion.</p>
+                  <p n="3">3.<note place="margin">Pa. <hi>8.</hi>
+                     </note> Whether Magiſtrates be not as eſſentially civill as the Maſter of a Ship.</p>
+                  <p n="4">4.<note place="margin">
+                        <hi>Pa.</hi> 9.11.</note> Whether <hi>Pagan</hi> Magiſtrates be not as truly Magi<g ref="char:EOLhyphen"/>ſtrates as the beſt Chriſtians; and whether <hi>Pagans</hi> conver<g ref="char:EOLhyphen"/>ted receive any addition to their Magiſtracy.</p>
+                  <p n="5">5.<note place="margin">
+                        <hi>Pa.</hi> 12.20 21.</note> Whether Magiſtrates have not often been miſtaken and given poyſon for food, and whether this Doctrine of Kings and Queenes being Nurſing Fathers coſt not the late King <hi>Charles</hi> his head.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. This Anſwerer interprets (<hi>Iſa.</hi> 49.23.) to be a Prophecy pecaliar to the <hi>Jewes,</hi> and fixes this interpretati<g ref="char:EOLhyphen"/>on from (verſe 23.) Yet for all this his Spirit is not fix<g ref="char:EOLhyphen"/>ed, but he enclines rather to another interpretation as ap<g ref="char:EOLhyphen"/>peares from his owne words int he later end of this page, <hi>viz.</hi> whether here is not promiſed to this People, or rather (ſaith he) to theſe Saints whether literall or ſpirituall <hi>Jewes.</hi> Thus he enervates the ſtrength of his firſt Anſwer by chooſing another interpretation; but he is ſo uncon<g ref="char:EOLhyphen"/>ſtant that in the tenth Page he ſeemes to be out of love with his choice, ſaying that ſome Kings were thus impow<g ref="char:EOLhyphen"/>red by God, but what is this to all Kings and Queenes and Magiſtrates in the world.</p>
+                  <pb n="3" facs="tcp:43246:4"/>
+                  <p>To theſE words of his I ſubjoyne his owne confeſſion in the third page, and deſire to know what Harmony there is bet wixt them; page 3. (ſaith he) I confeſſe that all Nations, all Peoples, Kings and Judges ought to be nur<g ref="char:EOLhyphen"/>ſing Fathers and Mothers to Chriſt and his followers.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. 1. It is not aſſerted that Kings and Qneenes ſhould be ſuch ſpirituall Fathers as <hi>Paul</hi> was, for then they ſhould give Food to their Children, but the words in the Queſtion are that they ſhould cauſe this Food to be given. This word <hi>(cauſe)</hi> carefully inſerted in the Queſtion careleſly omitted by this Anſwerer perhaps carefully and of ſet purpoſe) takes off this needleſſe queſtion.</p>
+                  <p n="2">2. I aske whether Magiſtrates countenancing and maintaining ſuch as <hi>Paul</hi> for to nurture up their People in the feare of the Lord may not be called nurſing Fa<g ref="char:EOLhyphen"/>thers. This Anſwerer in his next words allowes them to be Shepheards of the People, as Poets (ſaith he) uſe to call them; he might have ſaid as Scripture cals them.<note place="margin">
+                        <hi>Ezek.</hi> 34.23.</note>
+                  </p>
+                  <p>Now a Shepheard ought to provide for his Sheepe and to drive away the Wolves from the Flocks. How much comes this ſhort of a nurſing Father.</p>
+                  <p n="3">3. It is ſaid (verſe 23.) that Kings and Queenes ſhould bow downe to the Saints; yet from theſe words there can<g ref="char:EOLhyphen"/>not be neceſſarily drawne this inference, <hi>viz.</hi> that Magi<g ref="char:EOLhyphen"/>ſtrates ſhould be ſo far from challenging this Title of be<g ref="char:EOLhyphen"/>ing nurſing Fathers, as that they ſhould bow downe and acknowledge the Saints to be their Superiours; for I de<g ref="char:EOLhyphen"/>ſire to know, if I bring up a Kings ſonne whom I honour above my ſelfe, whether I may not challenge the Office of a nurſing Father without degrading the Infant by ſetting my ſelfe above him.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. 1. A Magiſtrate differs much from a Maſter of a Ship, in regard that thoſe in the <hi>Common-wealth</hi> are the Magiſtrates ſubjects, but the Paſſengers in a Ship are not the Maſters Subjects, neither was he conſtituted by them.</p>
+                  <p n="2">2. Notwithſtanding this vaſt difference the Magiſtrate is deſired to doe no more then this anſwerer allowes to a
+<pb n="4" facs="tcp:43246:5"/>Maſter of a Ship, <hi>viz.</hi> that he ſhew kindneſſe and counte<g ref="char:EOLhyphen"/>nance according to the quality and temper of his owne beliefe and conſcience. Vpon this conceſſion the Queſtion will follow, <hi>viz.</hi> that a Magiſtrate, &amp;c.</p>
+                  <p>
+                     <hi>Ad.</hi> 4. 1. It is granted that <hi>Pagan</hi> Magiſtrates are as tru<g ref="char:EOLhyphen"/>ly Magiſtrates; for by God they rule as well as Chriſtians; but they cannot diſcharge this their Office ſo well as Chriſtians; ſo likewiſe <hi>Pagans</hi> are as truly Fathers, but cannot fully diſcharge their duties till they be Chriſtians, <hi>viz.</hi> to bring up their Children in the feare of the Lord.</p>
+                  <p n="2">2 A <hi>Pagan</hi> converted receives no new addition of pow<g ref="char:EOLhyphen"/>er to his Magiſtracy, but onely is enabled to mannage this power which he received from God to a right end, <hi>viz.</hi> for God.</p>
+                  <p>
+                     <hi>Ad.</hi> 5. 1. What followes upon this that Magiſtrates pre<g ref="char:EOLhyphen"/>tending to be nurſing Fathers have miſtaken Poyſon for Food; he cannot draw this concluſion that Magiſtrates ought to take no more care for their Subjects in matters of Religion; by the ſame Logicke I'le argue that Parents having been miſtaken groſly in the education of their Children: Fathers are not to looke after the bringing up of their Children. What a petious Arguments is this?</p>
+                  <p n="2">2. The true conſequence will be this, that ſeeing Ma<g ref="char:EOLhyphen"/>giſtrates have been often miſtaken, therefore they ought to take the greater care and to doe nothing raſhly but be well adviſed.</p>
+                  <p n="3">3. This Doctrine did not coſt King <hi>Charles</hi> his Life, he was farre from being a nurſing Father; for he hugged in his boſome that ſtinging Serpent Idolatry.</p>
+                  <p n="4">4. King <hi>Charles</hi> was cut off for miſcarriages in civill af<g ref="char:EOLhyphen"/>faires, for not mannaging his power for the good of his Subjects; yet this example ſhould not deterre men from ta<g ref="char:EOLhyphen"/>king the Magiſtracy upon them, but ſhould rather ſtir them up to remove the Idols of their Fathers, and to give heed that they rule with diligence and Juſtice.</p>
+               </div>
+            </div>
+            <div n="2-3" type="questions">
+               <head>Queſtion 2.3.</head>
+               <p>Whether the Doctrine of <hi>Grace</hi> that bringeth Salvation, doe
+<pb n="5" facs="tcp:43246:5"/>not teach men to live Godly, Righteouſly and ſoberly; and more par<g ref="char:EOLhyphen"/>ticularly, to obey Magiſtrates, and to live in Love and peace among themſelves; and whether ſuch a Doctrine doe not advance the peace and proſperity of a Nation; and conſequently, whether a Magiſtrate be not bound to advance this Doctrine, which doth advance the peace and proſperity of a Nation?</p>
+               <p>Whether Godlineſſe hath not the promiſe of this life and that to come? And whether theſe promiſes doe not containe in them all good and happineſſe? and if ſo whether the Magiſtrate be not bound, to his power, to advance that godlineſſe which gives all good and happi<g ref="char:EOLhyphen"/>neſſe to a Nation.</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall anſwers.</head>
+                  <p n="1">1.<note place="margin">
+                        <hi>Pa.</hi> 13.19.</note> Whether the Magiſtrate receiving his power from the People can have any power in Spirituals.</p>
+                  <p n="2">2.<note place="margin">Pa. <hi>14.</hi>
+                     </note> Whether there be any ſuch thing as a Nationall Church.</p>
+                  <p n="3">3.<note place="margin">Pa. <hi>17.</hi>
+                     </note> Whether there be not flouriſhing States that are <hi>Pa<g ref="char:EOLhyphen"/>gans;</hi> and whether the godly are not perſecuted; and whe<g ref="char:EOLhyphen"/>ther Gods people have any other peace then ſpirituall peace.</p>
+                  <p n="4">4. Mercy to the perſecuted is the upholder of a State,<note place="margin">
+                        <hi>P.</hi> 17.18.19.</note> and hath raiſd <hi>Amſterdam.</hi>
+                  </p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p n="1">1.<note place="margin">Ad. <hi>1.</hi>
+                     </note> Whether the Magiſtrate being ſtiled a Miniſter of God for his Peoples good, is not to defend the true Re<g ref="char:EOLhyphen"/>ligion as well as keepe the civill peace.</p>
+                  <p n="2">2. Whether a Magiſtrate in making Laws about Spi<g ref="char:EOLhyphen"/>rituals doth exceed the bounds of his calling, ſeeing that ſuch lawes are for the good of his Subjects, and his Sub<g ref="char:EOLhyphen"/>jexts have given him power to doe what is for their good.</p>
+                  <p n="3">3. Whether Chriſtians may not give power about Spi<g ref="char:EOLhyphen"/>rituals to their Magiſtrates, ſeeing in ſome caſes it is al<g ref="char:EOLhyphen"/>lowd them to make Miniſters.</p>
+                  <p n="4">4. Whether we read in Scripture of any puniſht for not reforming Idolatry in the reigne of the Kings, beſides the
+<pb n="6" facs="tcp:43246:6"/>Kings themſelves, which clearly ſhews that it is the Magi<g ref="char:EOLhyphen"/>ſtrates duty to puniſh Idolatry.</p>
+                  <p n="5">5. Whether the People gave the Magiſtrate power to give liverty to Idolatry and Hereſy.<note place="margin">Ad. 2.</note>
+                  </p>
+                  <p n="1">1. The Anſwerers three <hi>utrums</hi> againſt Nationall Chur<g ref="char:EOLhyphen"/>ches are beſides the queſtion; for the words in the queſtion <hi>viz.</hi> that the Magiſtrate is bound to advance the Doctrine of grace and godlineſſe, doe onely denote that the Ma<g ref="char:EOLhyphen"/>giſtrate is bound to encourage men to preach this Doctrine and to keepe out of the Pulpit Idolatry and Hereſy. I can<g ref="char:EOLhyphen"/>not perceive that this queſtion doth erect a Nationall Church; for a Magiſtrate may doe thus much where the Churches are Congregationall. There is a difference be<g ref="char:EOLhyphen"/>tween advancing this Doctrine in a Nation, and making a Nationall Church.</p>
+                  <p n="2">2. I deſire to know whether thoſe <hi>Presbiterians</hi> that ad<g ref="char:EOLhyphen"/>mit but one of twenty to be of their Church, or thoſe <hi>In<g ref="char:EOLhyphen"/>dependents</hi> that are ſtricter in their admiſſion (whom the Author mentions) deny that the Magiſtrate is bound to advance the Doctrine of Grace. I am ſure the late propo<g ref="char:EOLhyphen"/>ſals of divers reverent Divines manifeſts the contrary, and the Author can aſſure us what <hi>New-England</hi> holds in this caſe.</p>
+                  <p>It is granted that there are many flouriſhing Nations a<g ref="char:EOLhyphen"/>mongſt whom the doctrine of Grace hath not been advan<g ref="char:EOLhyphen"/>ced,<note place="margin">Ad. 3.</note> but I aske:</p>
+                  <p>1. Whether their peace and happineſſe ſhall be ſo per<g ref="char:EOLhyphen"/>manent as the peace of thoſe amongſt whom this Doctrine is advanced, and I referre the Anſwerer for a reſolution of this queſtion to the 37. <hi>Pſalme:</hi> and whether there may not be a peace in wrath.</p>
+                  <p>2. It is granted that the Godly frequently ſuffer perſe<g ref="char:EOLhyphen"/>cution; what will the Author inferre hence? If he will in<g ref="char:EOLhyphen"/>ferre any thing againſt the queſtion, It muſt be this, <hi>viz.</hi> that the advancement of godlineſſe hinders the peace of a Nation, and therefore the Magiſtrate ſhould not advance godlineſſe in a Nation for feare of Perſecution. What an
+<pb n="7" facs="tcp:43246:6"/>Heatheniſh Argument is this. Let the great ones of the Earth take heed of being offended at the Croſſe of Chriſt. Chriſt ſaith, Bleſſed are you when men perſecute you for my names ſake, and rejoyce that you are counted worthy.</p>
+                  <p>3. This Anſwerer ſaith that all outward peace promi<g ref="char:EOLhyphen"/>ſed upon the condition of holyneſſe is vaniſht. Unto the falſity of this tenet, let theſe Scriptures witneſſe, <hi>Prov.</hi> 16.7. <hi>Revel.</hi> 6.14.</p>
+                  <p>Nav; Peace is given upon this condition, that we might ſerve God in holyneſſe, <hi>Luke</hi> 1.74, 75.</p>
+                  <p>I'ts true that mercy upholdeth a Throne, but I aske:</p>
+                  <p>1. Whether ſuch a mercy as to ſpare where the Lord bids to deſtroy will not rent a Kingdome from the Ma<g ref="char:EOLhyphen"/>geſtrates;<note place="margin">1 <hi>Sam.</hi> 15</note> as the ſparing of <hi>Agag</hi> rent the Kingdome from <hi>Saul.</hi>
+                  </p>
+                  <p>2. Whether it is not cruelty to tolerate infected per<g ref="char:EOLhyphen"/>ſons to the infection of others. Here the Anſwerer brings in <hi>Anſterdam</hi> for an inſtance; which (ſaith he) hath flou<g ref="char:EOLhyphen"/>riſhed many yeares by being a receptacle of all Fugitives whatſoever.</p>
+                  <p>1. He might as well from the flouriſhing of <hi>Rome</hi> have pleaded for the erecting of an <hi>Aſylum</hi> for Theeves and Robbers.</p>
+                  <p>2. Hath not <hi>Genevah</hi> flouriſht many yeares, though that City hath ſheltered no Malefactors, who eſcapting the hands of Juſtice have fled thither. But all ſuch have been tried and executed according to Law.</p>
+                  <p>3. Is <hi>New-England</hi> ever the worſe for caſting out ſome ſciſmaticall Hereticks.</p>
+                  <p>This Anſwerer haveing a ſting in his taile cloſes with an Invective againſt Tythes; divers men of ſuch kind of ſpirits with their Invectives ſtirre up the People, bid them cry, and then bawle out upon the Magiſtrate for not ap<g ref="char:EOLhyphen"/>peaſing them; if ſuch men were kept from writing we ſhould have few of theſe out-cryes.</p>
+               </div>
+            </div>
+            <div n="4" type="question">
+               <head>Queſtion 4.</head>
+               <p>
+                  <hi>Whether the Magiſtrate be not bound to love God with all his
+<pb n="8" facs="tcp:43246:7"/>might, and accordingly to advance his Glory with all his might? And whether he doe ſo, if he doe not put forth all his might in ad<g ref="char:EOLhyphen"/>vancing Gods true worſhip and ſervice, and the chiefe good of Gods People committed to his care?</hi>
+               </p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p>1.<note place="margin">
+                        <hi>Pa.</hi> 20.21.</note> The weapons of Chriſtians are not carnall but ſpi<g ref="char:EOLhyphen"/>rituall, 2 <hi>Cor.</hi> 10. and theſe are ſufficient to batter all ſtrong holds, and the carnall can effect nothing but a ſtorming the Nations into Hipocriſy.</p>
+                  <p>2.<note place="margin">
+                        <hi>Pa.</hi> 10.20.</note> Whether in the New Teſtament Chriſt hath appoin<g ref="char:EOLhyphen"/>ted the civill Sword to be deſendor of his Religion.</p>
+                  <p>3.<note place="margin">Pa. <hi>21.</hi>
+                     </note> Whether Religion did even ſo flouriſh as under per<g ref="char:EOLhyphen"/>ſecution.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p n="1">1.<note place="margin">Ad. <hi>1.</hi>
+                     </note> Whether the ſpirts intent in (2 <hi>Cor.</hi> 10. is not to ſet out the ſpirituall might of Miniſters againſt thoſe who diſgraced their perſonall weakneſſes. <hi>Q. D.</hi> though ſome amongſt you ſay that <hi>Paul</hi> Evangeliſt powerfully <hi>Manu &amp; Pennâ,</hi> but his bodily peſence is weake, his ſpeech is con<g ref="char:EOLhyphen"/>temptable; yet I doe not approve of this ſaying, for though <hi>Paul</hi> walkes in the fleſh, that is in this Body, yet he warres not after the Fleſh, that is the ſtrength of our warſare con<g ref="char:EOLhyphen"/>ſiſts not in Rhetorical words and pronunciation, we put not the ſtreſſe of our warfare upon theſe, for they are car<g ref="char:EOLhyphen"/>nall weapons, but ours are ſpirituall; the reſult of the whole is. That Miniſters who have no good utterance are not to be condemned, or their Miniſtry thought weak; for they come not in Word but in Spirit.</p>
+                  <p>Thus it clearly appears that by carnal weapons is not meant the civill Sword.</p>
+                  <p n="2">2. Spirituall weapons are ſufficient, onely ſufficient to bring downe the high thoughts of the heart, and Idolatry, Hereſy, and Murders in the heart are only batterd by theſe weapons, but if Hereſy, &amp;c. break forth into externall acts, they may be reached and puniſhed by the civill Sword;
+<pb n="9" facs="tcp:43246:7"/>and queſtionleſſe this outward puniſhment of Idolatry &amp;c. might truly convert many, as the erecting of the Gallows for Murderers hath brought many to true repentance, and amendment; yet I doe not deny but this rigor might make many Hipocrites, dor feare Wolves might cover them<g ref="char:EOLhyphen"/>ſelves in Lambs clothing be outwardly Lambs: <hi>Yet I aske,</hi>
+                  </p>
+                  <p>1. Whether ſuch Hipocrites are not better for ſociety, then Ravenous Wolves.</p>
+                  <p>2. Whether Idolatry, Hereſie, Murther, pent up in the heart, not daring to break forth for feare of Laws, be not leſſe diſpleaſing to God, then when for want of reſtraint they break forth into the members, and become reigning ſins; for ſins of this latter ſort God uſually puniſheth a Nation; therfore the Magiſtrate is to reſtraine ſuch ſins: further, if ſuch coercive power of the Magiſtrates be to be omitted becauſe it makes Hipocrites: <hi>I aſke,</hi>
+                  </p>
+                  <p>Why the Preaching of the Word is not to be omitted, ſeeing that thereby many have ſtormed into Hipo<g ref="char:EOLhyphen"/>criſie.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. 1. God hath appointed the civill Sword to de<g ref="char:EOLhyphen"/>fend Religion, <hi>Rom.</hi> 13.34.</p>
+                  <p n="2">2. The Author might as well aske, why God appoining in the old time Kings to be defenders of Religion, ſuffered ſo many of them to be Idolators. Take heed of upbraiding God.</p>
+                  <p n="3">3. If the <hi>Revelation</hi> be not <hi>Apocripha</hi> with this Author, he hath cauſe to beleeve that Kings ſhall burne the Whore with Fire.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. 1. Whether the flouriſhing of Religion under Perſecution, will excuſe the Magiſtrate from not defen<g ref="char:EOLhyphen"/>ding of the true Religion; though the <hi>Iſraelites</hi> encreſe un<g ref="char:EOLhyphen"/>der the <hi>Egyptian</hi> bondage, yet <hi>Pharaoh</hi> goes not unpuniſht.</p>
+                  <p n="2">2. <hi>I aſke,</hi> whether the Church is not alſo encreaſed by peace, <hi>viz. Act.</hi> 2.47. <hi>Act.</hi> 9.31.</p>
+               </div>
+            </div>
+            <div n="5" type="question">
+               <head>Queſtion 5.</head>
+               <p>
+                  <hi>The People being bound to pray for Magiſtrates, that under them they
+<pb n="10" facs="tcp:43246:8"/>may had a peaceable and quiet life in all godlineſſe and honeſty. Whe<g ref="char:EOLhyphen"/>ther the Magiſtrate be not bound to doe that which the People are bound to pray that he may doe? And whether he be not alſo bound to give himſelfe up to God to be his Servant and Inſtument, when he granteth this Prayer?</hi>
+               </p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p>1. Whether theſe words godlineſſe and honeſty be rightly tranſlited.</p>
+                  <p>2. That Saints ſhould imagine that the civill Sword ſhould defend their godlineſſe, and ſuppreſſe ungodlineſſe implyes a twofold contradiction.</p>
+                  <p>1. That they muſt imagine the Magiſtrate, to have a clearer ſight in judging of godlineſſe then themſelves.</p>
+                  <p>2. It's a Parodoxe that they ſhould not be able to live in godlineſſe without the helpe of the Magiſtrate.</p>
+                  <p>3. Whether the Scope of the place be not this, that God would direct the Magiſtrates to keepe their States in peace; that in the Peace of thoſe Nations the Saints might have Peace.</p>
+                  <p>4. Whether the bleſſed Spirit that is in all Gods peo<g ref="char:EOLhyphen"/>ple be not ſufficient to preſerve them in godlineſſe without the helpe of the Magiſtrate.</p>
+                  <p>5. Whether in theſe diviſions we may pray, that the Magiſtrate would judge (whoſe worſhip and godlineſſe is true, and defend that) and prohibite all others as Hereti<g ref="char:EOLhyphen"/>call, &amp;c.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi>
+                     <note place="margin">
+                        <hi>The Vul<g ref="char:EOLhyphen"/>gar Latin renders it</hi> ut quietam vivam a<g ref="char:EOLhyphen"/>gamus in omni pie<g ref="char:EOLhyphen"/>tate. <hi>2</hi> Bazd: cum omni pietate</note> 1. This Anſwerer carps at the tranſlation, yet gives no better, neither a reaſon of the falſity of this tran<g ref="char:EOLhyphen"/>ſlation. I'ts eaſie to carpe and multiply queſtions without a wherefore.</p>
+                  <q>Carpere vel ceſſes noſtra, vel ede tua.</q>
+                  <p>If <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> muſt not be tranſlated godlineſſe, we ſhall have little godlineſſe in our Tranſlation. Moſt tranſlations tranſlate it godlineſſe; for the Readers ſatisfaction let him read the marginall Notes.</p>
+                  <pb n="11" facs="tcp:43246:8"/>
+                  <p>
+                     <hi>Ad.</hi> 2. It's a moſt nuchriſtan ſpeech that the Apoſtle ſhould exhort to any duty, that implyes unchriſtian Paradoxes; The duty doth not imply theſe Paradoxes.</p>
+                  <p>1. Chriſtians may defire the Magiſtrate to defend them, and yet need not imagine the Magiſtrate to have a clearer diſcerning in godlineſſe then themſelves; may not a Car<g ref="char:EOLhyphen"/>nall man defend a Spirituall man.</p>
+                  <p>2. Cannot the <hi>Parlament</hi> make a Generall, for the de<g ref="char:EOLhyphen"/>fence of their cauſe, but they muſt imagine the Generall to have a clearer diſcerning of the cauſe then themſelves.</p>
+                  <p>3. I'ts not denied but that they might live a godly life without the Magiſtrate, yet they could not live a peaceable and quiet life in al godlineſſe without the Magiſtrate.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. The Author comes farre ſhort of the Scope of the place.</p>
+                  <p n="1">1. For in the former chapter <hi>Paul</hi> had delivered <hi>Hymene<g ref="char:EOLhyphen"/>us</hi> to Satan, that others might learn not to blaſpheme, and he begins his Chapter with this exhort. <hi>I exhort therefore that Prayers be made for all in Authority, that we may live, &amp;c. Q. d.</hi> that they may put forth their power againſt ſuch Diſturbers of the Church, that we may live quietly; this appeares further from the reaſon that inforces this exhort, (verſ. 4.) <hi>for God would have all men to be ſaved and come to the truth.</hi>
+                  </p>
+                  <p>If the Scope of the place had been that God would di<g ref="char:EOLhyphen"/>rect the Magiſtrates to keepe their States in peace, that ſo in the peace thereof, the Saints might have peace: The Author needed not have added this reaſon in (verſ. 4.) for Carnall men without comming to the truth might have kept the State in peace; and ſo the Author have had his end.</p>
+                  <p n="2">2. If the Author gives the true Scop of the place, the Au<g ref="char:EOLhyphen"/>thor ſhold rather have exhorted tem to pray, that the States (wherein) they lived might have had Warre; for then they would not have been at leaſure to torment Saints; for when the Perſecutors had Warre with other Nations, then the S<hi rend="sup">rs</hi>. were free from Perſecution, &amp; when they had
+<pb n="12" facs="tcp:43246:9"/>Peace, then they made Warre againſt the Saints. In the Peace of the States the Saints had ſeldome Peace.</p>
+                  <p>
+                     <hi>Ad.</hi> 4 The Spirit is able to keepe Gods people, though they ſhould want nurſing Fathers and Teachers, which as this Anſwerer ſaith, are reſpectively neceſſary, yet all helps are with Humility to be uſed, where they may be had, (we have no warrant to caſt away meanes) and are re<g ref="char:EOLhyphen"/>ſpectively neceſſary, as this Author ſpeakes.</p>
+                  <p>
+                     <hi>Ad.</hi> 5. I'ts not defired that the Magiſtrate would ſo judge of one worſhip (as Prebytery or the like) as to ſet it up, and condemne all others as Alaſphemy, &amp;c. But that he would prohibite Blaſphemy and Idolatry, and thoſe that are Blaſ<g ref="char:EOLhyphen"/>phemers: and <hi>I aſke,</hi>
+                  </p>
+                  <p>Why we may not as ſafely pray ſuch a Prayer though divers be of a contrary mind, as we prayed for the <hi>Parla<g ref="char:EOLhyphen"/>ment,</hi> when divers were of a contrary mind.</p>
+               </div>
+            </div>
+            <div n="6" type="question">
+               <head>Queſtion 6.</head>
+               <p>Whether <hi>Abraham</hi> and the Heads of other Families before the Law, where not Magiſtrates in their Families? And whether <hi>A<g ref="char:EOLhyphen"/>braham</hi> did not command his Family to keepe the way of the Lord?<note place="margin">Gen. 18.19.</note> And whether God did not commend him for doing ſo? And whether <hi>Jacob</hi> did not purge his Houſe from Idols,<note place="margin">Gen. 34.2.</note> and cauſed his Houſe<g ref="char:EOLhyphen"/>hold to goe up to Bethel to worſpip the true God?<note place="margin">Sect. <hi>10.</hi>
+                  </note> And whether <hi>A<g ref="char:EOLhyphen"/>braham</hi> and <hi>Jacob</hi> were meerely Fellow Servant with there Ser<g ref="char:EOLhyphen"/>vants (as this <hi>Examiner</hi> ſaith) and their Houſhold might com<g ref="char:EOLhyphen"/>mand <hi>Abraham</hi> and <hi>Jacob,</hi> as well as <hi>Abraham</hi> and <hi>Jacob</hi> command their Houſhold?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p>1. Whether the <hi>Questioner</hi> deales fairly with the <hi>Exa<g ref="char:EOLhyphen"/>miner,</hi> in ſaying that the <hi>Examiner</hi> ſaith <hi>Abrahams</hi> Houſhold might command him as well as he them.</p>
+                  <p>2. Whether any conſequence can be gathered from <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and <hi>Jacob</hi> (who purged his Houſe from <hi>Idols</hi>) for Maſters now a dayes to follow, ſeeing that they were ty<g ref="char:EOLhyphen"/>picall.</p>
+                  <pb n="13" facs="tcp:43246:9"/>
+                  <p>3. Whether it be not Gods deſign to chuſe men of low degree, and whether it be not againſt Gods declared Will that we ſhould expect many Chriſtian Magiſtrates.</p>
+                  <p>4. Whether a Chriſtian that Participates more of the Spirit of Chriſt, hath not more power in Religion, then the higheſt Magiſtrate.</p>
+                  <p>5. Whether a Subject may not reprove a Magiſtrate for Sin.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. The <hi>Queſtioner</hi> doth not at all ſlander the <hi>Examiner</hi> laying this aſſertion to his charge, for that it is his owne child, this Anſwerer himſelfe bears witneſſe; for this An<g ref="char:EOLhyphen"/>ſwerer confeſſeth that its an aſſertion of the <hi>Examiner, viz.</hi>
+                     <note place="margin">Pag. <hi>26.</hi>
+                     </note> That in Religious matters the Magiſtrate and Subjects are Fellow Servants; <hi>I aſke</hi> then, why this Anſwerer cavels thus, ſeeing that the <hi>Queſtioner</hi> ſpeakes not of <hi>Abraham</hi> or <hi>Jacob</hi> in a civill reſpect, but onely in a Religious?</p>
+                  <p>
+                     <hi>Ad.</hi> 2. Whether Maſters of Families may not draw from <hi>Abrahams</hi> example, this conſequence of cauſing their Fa<g ref="char:EOLhyphen"/>mily to keepe the way of the Lord, ſeeing that they draw the conſequence of baptizing their children from <hi>Abraham.</hi>
+                  </p>
+                  <p n="2">2. Whether in this caſe <hi>Abraham</hi> was Typicall.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. Though there ſhould not be many Chriſtian Ma<g ref="char:EOLhyphen"/>giſtrates, yet thoſe few that are, ought the rather to ad<g ref="char:EOLhyphen"/>vance the Chriſtian Religion.</p>
+                  <p n="2">2. Whether if God chooſe men of low degree and make them Magiſtrates, i'ts not Gods will that they ſhould ad<g ref="char:EOLhyphen"/>vance godlineſſe.</p>
+                  <p>
+                     <hi>Ad.</hi> 4. He that hath moſt of the Spirit is not higheſt in Religious matters: for in the Church militant, order is to be kept, and the valianteſtman is not always Captaine. Abilities without a calling doth not give a man Power and Authority.</p>
+                  <p n="2">2. <hi>Pari ratione</hi> I aske, whether a Subject that participates more of Policy, hath not more power in State matters then the higheſt Stateſ-man.</p>
+                  <pb n="14" facs="tcp:43246:10"/>
+                  <p n="3">3. <hi>I aſke,</hi> whether Magiſtrates may not be high in the Spirit.</p>
+                  <p>
+                     <hi>Ad.</hi> 5. The Subject may reprove a Magiſtrate, <hi>Nathan</hi> may reprove <hi>David;</hi> yet it doth not follow that <hi>Nathan</hi> may as well command in Religious matters as <hi>David.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="7" type="question">
+               <head>Queſtion 7.</head>
+               <p>Whether <hi>Artaxerxes</hi> did well in making a Decree for the ad<g ref="char:EOLhyphen"/>vancement of the true werſhip of the true God, and in cauſing <hi>Ezra</hi> to teach them the law of God?<note place="margin">Ezra 7.</note> And whether the King of <hi>Nineveh</hi> did well to command his People to keepe a generall Faſt, and to turne from their evil wayes, whereby he ſaved that great City? Or whe<g ref="char:EOLhyphen"/>ther he might not have done better to have left them to a careleſſe liberty, and ſo to deſtruction?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p>1. Whether theſe two Inſtances be not ill coupled, for <hi>Artaxerxes</hi> gave free liberty of conſcience to the <hi>Jews,</hi> whereas the King of <hi>Nineveh</hi> forced his People to Faſt.</p>
+                  <p>2. Did <hi>Artaxerxes</hi> compell the <hi>Jews</hi> to his Religion, or the <hi>Perſians</hi> to the <hi>Jews,</hi> or the <hi>Jews</hi> to goe to <hi>Jeruſalem.</hi>
+                  </p>
+                  <p>3. What can be gathered hence; but that it pleaſeth God ſometimes to affect the hearts of Idolatrous Kings with kindneſſe to his People.</p>
+                  <p>4. Whether this Inſtance makes not for Soul-freedome in that the <hi>Jewes</hi> were not forced to their owne <hi>Jeruſalem.</hi>
+                  </p>
+                  <p>As to the King of <hi>Nineveh.</hi>
+                  </p>
+                  <p>1. Whether examples in Scripture bind our conſciences in worſhip.</p>
+                  <p>2. Whether this Example of the King of <hi>Nineveh</hi> be fit for all Nations to imitate, ſeeing that mens conſciences differ as much as the Climates in which they live.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. The Anſwerer give us in his booke the Summe of this Queſtion, after this manner. Whether <hi>Artaxerxes</hi> and the King of <hi>Nineveh</hi> did well in making there decrees, he
+<pb n="15" facs="tcp:43246:10"/>puts theſe two inſtances under one <hi>utrum,</hi> whereas the <hi>Queſtioner</hi> makes two <hi>utrums</hi> of them.</p>
+                  <p>Now I aske, who is to be blamed for coupling of theſe two diſtinct Inſtances together.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. There is no ſuch thing aſſerted, but the Queſtion onely is, whether he did well in what he did doe, or no.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. With a little Logicke this concluſion may be ga<g ref="char:EOLhyphen"/>thered, <hi>viz.</hi> If <hi>Artaxerxes</hi> did well in making this decree (which impowred <hi>Ezra</hi> to ſet Judges, which may judge all the people that know the Law of God, and to execute Judgement upon them that would not doe them) a Chri<g ref="char:EOLhyphen"/>ſtian Magiſtrate would doe well in Countenancing and Encourage thoſe that teach the law of the Lord, and in puniſhing thoſe that would not obey it.</p>
+                  <p>
+                     <hi>Ad.</hi> 1. All the liberty that is granted them is, that they might chuſe whether they would goe to <hi>Jeruſalem</hi> or no, but thoſe that went to <hi>Jeruſalem</hi> were not left free to what worſhip they pleaſed, for verſ. 26. whoſoever will not doe the Law, let judgement be executed upon him, &amp;c. So noe Chriſtians are deſired to come out of <hi>Babilon,</hi> but thoſe that are willing. Yet if they come out of <hi>Babylon,</hi> and dwell under the Chriſtian Magiſtracy, and will not doe the Law of the Lord, let Judgement be executed upon them.</p>
+                  <p>
+                     <hi>Ad.</hi> 1. Whether thoſe things that were writ aforetime, were not writ for our learning.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. <hi>Pari ratione,</hi> I'le argue the <hi>Alcoran</hi> is fitter to be fol<g ref="char:EOLhyphen"/>lowed then the Bible. Why did not Chriſt make a particu<g ref="char:EOLhyphen"/>lar Bible to ſute with the Climates according to the ele<g ref="char:EOLhyphen"/>vation of the People.</p>
+               </div>
+            </div>
+            <div n="8" type="question">
+               <head>Queſtion 8.</head>
+               <p>Whether any of the Prophets, Apoſtles, yea our Saviour himſelfe did ever except at the Mngiſtrates Authority, for queſtioning them in matters of Religion?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. The Prophets and Chriſt are ill coupled in this Queſtion, becauſe the Law &amp; the Prophets were until <hi>John,</hi>
+                     <pb n="16" facs="tcp:43246:11"/>and ſo their Actions cannot be brought in as witneſſes with Chriſt.</p>
+                  <p n="2">2. Whether Chriſt did not except againſt the Magi<g ref="char:EOLhyphen"/>ſtrates power in Religion, in that diſtinction, Give unto <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> &amp;c. was not giving <hi>Caeſar</hi> his due, a giving God his due, what difference can there be between Gods due and <hi>Caeſars</hi> due, but onely that of mat<g ref="char:EOLhyphen"/>ter of conſcience Spirituall and Religious which <hi>Caeſar</hi> had no power over.</p>
+                  <p n="3">3. The Apoſtles not only refuſed to obey ungodly com<g ref="char:EOLhyphen"/>mands, but even to owne the Courts of the higheſt in mat<g ref="char:EOLhyphen"/>ters of Religion, <hi>Act.</hi> 4.5.</p>
+                  <p n="4">4. If Chriſts Followers ſhould owne any Trybunall queſtioning them by Authority, but Chriſts in matters of Religion, it would be Blaſphemy.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. 1. Its true the Prophets Prophecyed of Chriſts comming untill <hi>John, Mat.</hi> 11.13. but the ſubſtance of their Doctrine is not antiquated by Chriſts coming, <hi>Mat.</hi> 5.17.</p>
+                  <p n="2">2. <hi>I aſke,</hi> why the Prophets Teſtimony may not be cou<g ref="char:EOLhyphen"/>pled with Chriſts, ſeeing that the ſame Spirit that was in Chriſt, was in the Prophets, 1. <hi>Pet.</hi> 1.11.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. I cannot conceive what objection againſt the Ma<g ref="char:EOLhyphen"/>giſtrates Power can be gathered out of <hi>Mat.</hi> 22.21. the ſcope of the place is no more then that the maintaining of Gods ſervice, muſt not excuſe them from maintaining the ci<g ref="char:EOLhyphen"/>vill power, for they were <hi>Caeſars</hi> Subjects, and therefore muſt pay Tribute to <hi>Caeſar:</hi> And though in giving <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi> his due, in ſome ſence they gave God his due (becauſe Magiſtracy is an ordinance of God) yet this was not Gods whole due (for the Miniſtry is likewiſe an ordinance of God) and I thinke the payments towards the maintain<g ref="char:EOLhyphen"/>ing of Gods ſervice were eaſily to be diſcerned from <hi>Caeſars</hi> Tribute, and might be called Gods due in a peculiar man<g ref="char:EOLhyphen"/>ner. But none ſo blind as thoſe that will not ſee.</p>
+                  <p>
+                     <hi>Ad.</hi> 3.1. <hi>I aſke,</hi> whether the Apoſtles were not often accuſe
+<pb n="17" facs="tcp:43246:11"/>of Hereſie before the Magiſtrates, did they ever plead the Magiſtrates had no power to judge of ſuch caſes.</p>
+                  <p>Nay, is not <hi>Gallio</hi> branded for his indifferency and care<g ref="char:EOLhyphen"/>leſneſſe in ſuch caſes.</p>
+                  <p n="2">2. I'es falſe that the Apoſtles <hi>Act.</hi> 4.5. refuſed to own the Court, for they pleaded Non-guilty, and made a defence for them ſelves which is a full owning of a Court.</p>
+                  <p>
+                     <hi>Ad.</hi> 4. Whether the Apoſtles by Anſwering to Courts that queſtioned them concerning their Religion were guil<g ref="char:EOLhyphen"/>ty of Blaſphemy.</p>
+                  <p>Whether <hi>Paul</hi> counting himſelfe happy in that he ſhould Anſwer before <hi>Agrippa</hi> counted it a happy thing to ſpeake Blaſphemy.</p>
+               </div>
+            </div>
+            <div n="9-12" type="questions">
+               <head>Queſtion 9.10.11.12.</head>
+               <p>If a beleeving Magistrate, as a nurſing Father, recommend to his Children the wholſome Food of the Word, that is able to ſave their Soules, and encourage thoſe that diſperſe and diſpenſe it; and with<g ref="char:EOLhyphen"/>all, forbid others to give abroad the Poyſon, contrary to it? Whether the <hi>Examiner</hi> hath just cauſe to ſay, that this is a Ground for a<g ref="char:EOLhyphen"/>nother Magiſtrate to command the giving abroad of Poyſon, and to forbid the delivering of the wholeſome Food that may ſave his peo<g ref="char:EOLhyphen"/>ples Soules?</p>
+               <p>Authority being given by God to <hi>Aſa</hi> to advance true Religion and ſuppreſſe Idolatry (which he did to depoſing of his Mother) Whe<g ref="char:EOLhyphen"/>ther this were a ground for <hi>Manaſſeh,</hi> (one of his ſucceſſours) to ſet up Idolatry, and a principle of Perſecution, whereupon he might kill thoſe that would not worſhip his Idols?</p>
+               <p>When God made a Law, that Blaſpemy proved by two Witneſſes, ſhould be puniſhed with Death: Whether he therein did lay a prin<g ref="char:EOLhyphen"/>ciple of Perſecution or Murder, whereby <hi>Jeſabel</hi> by two falſe Wit<g ref="char:EOLhyphen"/>neſſes might unjuſtly put <hi>Naboth</hi> to death?</p>
+               <p>Whether <hi>Paul</hi> commanding Chriſtian Fathers to bring up their Children in the nurture and admonition of the Lord, doe hereby lay a Principle whereupon Idolatrous Parents may bring up their Chil<g ref="char:EOLhyphen"/>dren in the nurture and Doctrine of Idolatry; that is, in the Do<g ref="char:EOLhyphen"/>ctrine of Devils?</p>
+               <div type="answer">
+                  <pb n="18" facs="tcp:43246:12"/>
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. The <hi>Examiner</hi> is not ſo void of reaſon as to imagine that corruptions and abuſes are ſufficient ground to over<g ref="char:EOLhyphen"/>throw a truly Chriſtian conſtitution.</p>
+                  <p n="2">2. Whether Parents may not doe that which <hi>Paul</hi> ex<g ref="char:EOLhyphen"/>horts them to (<hi>Eph.</hi> 5.) except they force their Children to their own worſhip.</p>
+                  <p n="3">3. By this rule the Child comming to be Magiſtrate muſt force his Father according to that Typicall exam<g ref="char:EOLhyphen"/>ple of <hi>Aſa.</hi>
+                  </p>
+                  <p>By this rule King <hi>Edward</hi> did well in forbidding his Si<g ref="char:EOLhyphen"/>ſter <hi>Mary</hi> her conſcience; and <hi>Mary</hi> could doe no other then forbid her Siſter <hi>Elizabeth</hi> the uſe of her conſcience.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. This <hi>Anſwerer</hi> that cannot imagine a Man ſo void of reaſon is ſo Irrationall himſelfe; for he brings the Ma<g ref="char:EOLhyphen"/>giſtrates frequent miſtakes in Religion as an argument to overthrow his power about Spirituals.</p>
+                  <p n="2">2 Abuſes are to be taken away, or elſe they wil overthrow a Chriſtian Society; but Idolatry, Superſtition &amp;c. are a<g ref="char:EOLhyphen"/>buſes of Gods workes, according to this Authors Cata<g ref="char:EOLhyphen"/>logue; therefore Idolatry is to be taken away.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. 1. If a Father have Children that be Idolators; he cannot fulfill the command of <hi>Paul,</hi> except he bring them to the worſhip of the true God.</p>
+                  <p n="2">2. What is this to the Queſtion, the Queſtion is whe<g ref="char:EOLhyphen"/>ther this command of <hi>Paul</hi> layes a principle for the brin<g ref="char:EOLhyphen"/>ing up of Children in Idolatry.</p>
+                  <p>The ſtrength of this Queſtion lyes in the Connexion againſt which nothing is ſaid by this <hi>Anſwerer.</hi>
+                  </p>
+                  <p>
+                     <hi>Ad.</hi> 3. <hi>I aſke,</hi> whether a Child comming to be Father over his Country may not judge his owne Father.</p>
+                  <p n="2">2. King <hi>Edward</hi> did well in forbidding <hi>Mary</hi> the uſe of her conſcience becauſe ſhe was an Idolator; but this act of <hi>Edward</hi> to <hi>Mary</hi> doth not juſtifie <hi>Maries</hi> Act to <hi>Elizabeth:</hi>
+                     <pb n="19" facs="tcp:43246:12"/>For though it be good to be Zealous in a good cauſe, yet not in a bad cauſe. Zeale makes a good cauſe better. Zeale makes a bad cauſe worſe.</p>
+                  <p n="3">3. <hi>I aſke,</hi> wherher <hi>Edwards</hi> forbidding <hi>Mary</hi> forced <hi>Mary</hi> to forbid <hi>Elizabeth</hi> the uſe of her conſcience. I aske whe<g ref="char:EOLhyphen"/>ther the Shepheard driving Wolves from his Flocke for<g ref="char:EOLhyphen"/>ces the Wolves to devour his Sheepe? I beleeve if the Shepheard ſhould conſent to make no uſe of his Dogges for the keeping of his Sheepe, the Wolves would not de<g ref="char:EOLhyphen"/>ſiſt from devouring his Sheepe.</p>
+                  <p n="4">4. <hi>I aſke,</hi> whether it be lawfull to ceaſe acting vigo<g ref="char:EOLhyphen"/>rouſly for God, becauſe we would not have the wicked act vigorouſly for the Devill and their Idols. And whether upon ſuch a ceſſation of the godly, the wicked would be leſſe wicked. And whether this were not to make an agree<g ref="char:EOLhyphen"/>ment with iniquities?</p>
+               </div>
+            </div>
+            <div n="13" type="question">
+               <head>Queſtion 13.</head>
+               <p>Idolatry being againſt the light of Nature,<note place="margin">Rom. 3.28. Rom. 1.</note> and therefore puniſh<g ref="char:EOLhyphen"/>able under the Law of Nature, and ſo acknowledged by <hi>Job,</hi> who liv<g ref="char:EOLhyphen"/>ed before the Law of <hi>Moſes;</hi> Whether the Magiſtrate under the Goſpel (which gives more light to the diſcovery of the ſinfulneſſe and guilt of Idolatry) may not alſo reſtraine and puniſh that ſin?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. Whether there be not divers interpretations of this place, 1. the <hi>Septuagint</hi> renders it thus, <hi>viz.</hi> this would have been judged a very great iniquity.</p>
+                  <p n="2">2. Some interpret beholding the <hi>Sun</hi> and <hi>Moon,</hi> &amp;c. Me<g ref="char:EOLhyphen"/>taphorically for being puſt up with Proſperity and Suc<g ref="char:EOLhyphen"/>ceſſe.</p>
+                  <p n="2">2. Shall we follow <hi>Jobs</hi> example and erect New lands of <hi>Canaan?</hi>
+                  </p>
+                  <p n="3">3. Gods People are commanded to diſobey the civill power in Spirituals, <hi>Col.</hi> 2.16.</p>
+                  <p n="4">4. Is there not two ſorts of Idolatry, 1. Religious wor<g ref="char:EOLhyphen"/>ſhiping falſe gods, 2. Morall, as Covetouſneſſe.</p>
+                  <p n="5">5. Is there not a fallacy in the terme Light of Nature.</p>
+                  <pb n="20" facs="tcp:43246:13"/>
+                  <p n="6">6. In <hi>Jobs</hi> time corporall now ſpirituall judgements re onely proper.</p>
+                  <p n="7">7. Where lies the Harmony betweene theſe two Scirp<g ref="char:EOLhyphen"/>tures, <hi>Rom.</hi> 2.1 <hi>Cor.</hi> 1.</p>
+                  <p n="8">8. Whether naturall wiſdome can attaine to a true and ſaving knowledge of God.</p>
+                  <p n="9">9. The civill Sword is to cut off all incivilities though masked under religious pretences, and when Idolatry breaks forth into Whoredome and Murther i'ts to be pu<g ref="char:EOLhyphen"/>niſhed.</p>
+                  <p>Hence I honour that noble act of <hi>Auguſtus</hi> againſt <hi>Ovid,</hi> and doubtleſſe it is the duty of the civill Sword to cut off long Haire.</p>
+                  <p n="10">10. If God had conceald the old Teſt. from us, <hi>I aſke,</hi> in what place of the New-Teſtament he hath commanded the Sword to be drawne in his quarrell.</p>
+                  <p n="11">11. Whether ſuch Nations as were wholly Idolatrous were puniſhed by <hi>David.</hi>
+                  </p>
+                  <p n="12">12. Whether Chriſt hath not lockt up the Magiſtrates hands; ſaying, let the Tares alone untill the Harveſt.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. 1. <hi>I aſke,</hi> whether the <hi>Septuagint</hi> being a tran<g ref="char:EOLhyphen"/>ſlation be any further to be credited then it agrees with the Originall.</p>
+                  <p n="2">2. Whether we may not juſtly ſuſpect the <hi>Septuagints</hi> tranſlation of verſe 28. of this Chapter, ſeeing that in verſ. 11. they omit wholly what they tranſlate in verſ. 28. what they omit in one place we have ground to think they will ſafely tranſlate in another place where it cannot be omit<g ref="char:EOLhyphen"/>ted.</p>
+                  <p n="3">3. Whether <hi>Job</hi> 31.26. beholding the <hi>Sun</hi> is to be in<g ref="char:EOLhyphen"/>terpreted Metaphorically for being puft up with proſpe<g ref="char:EOLhyphen"/>rity and ſucceſſe: It's directly oppoſite to the ſcope of the place; for 1. this Iniquity was not to be puniſhed by the Judges.</p>
+                  <p n="2">2. This Sentence, (<hi>viz.</hi> an iniquity to be puniſhed by the Judges) is annexed, verſ. 11. unto the hainous crime
+<pb n="21" facs="tcp:43246:13"/>of Adultery, and is not annexed to any one ſin beſides in the whole Chapter, but onely to this ſin mentioned in this ſix and twentieth verſe.</p>
+                  <p>Therefore I Argue that beholding the <hi>Sun,</hi> muſt be an iniquity of greater magnitude then to be puft up with ſuc<g ref="char:EOLhyphen"/>ceſſe.</p>
+                  <p n="4">4. That this iniquity which was to be puniſhed by the Judges is Idolatry, I thus argue:</p>
+                  <p n="1">1. Beholding the <hi>Sun</hi> and kiſſing the hand is interpre<g ref="char:EOLhyphen"/>ted to be a Religious worſhipping the <hi>Sun:</hi> For it was a cuſtome in worſhipping the gods to kiſſe them, as appears from 1 <hi>King</hi> 19.18. Now the <hi>Sun</hi> being two farre diſtant they kiſſed their hands, divers Authors witneſſe that this was the manner of worſhipping the <hi>Sun.</hi>
+                  </p>
+                  <p n="2">2. Iniquity in the twenty eighth verſe may be well put for Idolatry which is iniquity <hi>per eminentiam:</hi> we have Ini<g ref="char:EOLhyphen"/>quity put for Idolatry, <hi>Joſh.</hi> 22.17. <hi>Numb.</hi> 25.4.</p>
+                  <p>That Iniquity is to be thus taken in this place appears from the reaſon that is immediately ſubjoyned, <hi>viz.</hi> for I ſhould deny the God that is above.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. Whether the Magiſtrates in <hi>Jobs</hi> time (who was by the conceſſion of this Author before <hi>Moſes</hi>) puniſhing Idolatry did erect ſuch a <hi>Canaan</hi> as that which the <hi>Jews</hi> erected in <hi>Moſes</hi> time.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. <hi>Col.</hi> 2.16. is ſpoken of the Ceremoniall unclean<g ref="char:EOLhyphen"/>neſſe that ſome did put betweene Meats and Drinks &amp;c. which were indifferent in themſelves: compare this place with <hi>Rom.</hi> 14.2.3. 1 <hi>Tim.</hi> 4.3.4, 5. and it will appeare that there is no ſuch command given as to diſobey the civill power commanding a right about Spirituals: Againe, nothing at all is ſpoken concerning the Magiſtrate in that place.</p>
+                  <p>
+                     <hi>Ad.</hi> 4. This diviſion of Idolatry is not very <hi>acurat,</hi> for Covetouſneſſe is Religious Idolatry as well as the wor<g ref="char:EOLhyphen"/>ſhipping of falſe gods.</p>
+                  <p>I ſhall not further diſcuſſe this Queſtion of the Anſwe<g ref="char:EOLhyphen"/>rers in this place, for (he ſaith) he hath ſpoken it before,
+<pb n="22" facs="tcp:43246:14"/>and afterwards he ſpeaks it againe; indeed moſt thing, he ſpeaks have two or three Ecchoes.</p>
+                  <p>
+                     <hi>Ad.</hi> 5. 1. I think this Anſwerer meanes <hi>fallacia extra dictionem,</hi> for there is no fallacy uſed at all.</p>
+                  <p n="2">2. This Anſwerer himſelfe knows there is no fallacy uſed at all in that terme light of Nature. For in pag. 66. of his booke he uſes this terme in the ſame ſenſe that it's uſed in the Queſtion, his owne words are theſe, <hi>viz.</hi> Nations may attaine to (by the light of Nature) many convictions of a Godhead.</p>
+                  <p>
+                     <hi>Ad.</hi> 6. This Anſwerer will never be able to prove, that under the Law corporall Judgements, and under the Goſ<g ref="char:EOLhyphen"/>pell Spirituall Judgements are proper 40. <hi>modo.</hi> Is not <hi>Pha<g ref="char:EOLhyphen"/>raoh</hi> puniſhed with hardneſſe of heart a Spirituall Judge<g ref="char:EOLhyphen"/>ment, beſides all his Corporall puniſhments, and are not Corporall puniſhment ſpoken of in the Goſpell, when it's ſaid the Kings ſhall burne the Whore with Fire.</p>
+                  <p>
+                     <hi>Ad.</hi> 7. There is a bleſſed Harmony betweene thoſe two Scriptures <hi>Rom.</hi> 1.1 <hi>Cor.</hi> 1.21.</p>
+                  <p>The Scope of <hi>Rom.</hi> 1. is, that though they know God to be inviſible, yet they gave the glory of the Creator to the Creature. That of 1 <hi>Cor.</hi> 1.21. aſſerts that by the Creati<g ref="char:EOLhyphen"/>on, the world could have no ſaving knowledge of God; therefore it pleaſed God to reveale by preaching.</p>
+                  <p>
+                     <hi>I aſke,</hi> what diſcord there is betweene theſe two Scrip<g ref="char:EOLhyphen"/>tures.</p>
+                  <p>
+                     <hi>Ad.</hi> 8. What this Author ſaith againſt the light of Na<g ref="char:EOLhyphen"/>ture attaining to a ſaving knowledge of God, I paſſe by, as Impertinencies; for the Queſtion aſſerts no ſuch thing.</p>
+                  <p>
+                     <hi>Ad.</hi> 9. This Anſwerer granteth that if Idolatry breakes forth into Murther and other incivilities, the Magiſtrate is to ſuppreſſe theſe wicked practiſes and the principles of them. Now <hi>I aſke,</hi>
+                  </p>
+                  <p>Whether Idolatry being the principle of wicked practi<g ref="char:EOLhyphen"/>ſes (as this Author confeſſeth, and <hi>Paul</hi> proves <hi>Rom.</hi> 2.) be not to be ſuppreſſed.</p>
+                  <p n="2">2. If the civill Sword ought to cut off Womens haire
+<pb n="23" facs="tcp:43246:14"/>from mens heads as being an incivility, <hi>I aſke,</hi> whether the Magiſtrates ought not to make an Act againſt the Pere<g ref="char:EOLhyphen"/>wigs about the Chin, and whether this Anſwerer would honour the Civill Sword, if it ſhould correct Anamolus Beards, and bring them within rule: whether he would not ſuffer a <hi>Nazarite</hi> to live.</p>
+                  <p n="3">3. Let the <hi>Reader</hi> obſerve the Phariſaical Zeal of this An<g ref="char:EOLhyphen"/>ſwerer, who ſtrains at a Gnat and ſwallowes a Camell: It's a Charracter of a rotten Zeale to be carefull in the leſſe, and careleſſely to pretermit the weightier matters of the Law.</p>
+                  <p>
+                     <hi>Ad.</hi> 10. God hath commanded the Sword to be drawne againſt evill doers, <hi>Rom.</hi> 13. in <hi>Rev.</hi> It is ſaid the Kings ſhall burne the Whore with Fire, and 1 <hi>Tim.</hi> 2.</p>
+                  <p>
+                     <hi>Ad.</hi> 1 1. It's granted <hi>David</hi> did not puniſh thoſe Nations that were wholly Idolatrous as the <hi>Ammonites,</hi> neither were the <hi>Iſraelites</hi> puniſhed for Idolatry, when they whol<g ref="char:EOLhyphen"/>ly turned to Idols, <hi>viz.</hi> 1 <hi>Sam</hi> 7.2.3, 4.2 <hi>King.</hi> 23.9. 1 <hi>Kin.</hi> 18.39. neither could they be puniſhed, it's like the caſe of the Sonnes of <hi>Serviah.</hi>
+                  </p>
+                  <p n="2">2. If Strangers did ſojourne in the land of <hi>Canaan,</hi> they might be compeld from publicke and ſcandalous breaking of the Morall Law, <hi>Neh.</hi> 13.16. <hi>Exod.</hi> 20.10.</p>
+                  <p>
+                     <hi>Ad.</hi> 12. <hi>I aſke,</hi> whether by Tares is ment Idolators and Blaſphemers.</p>
+               </div>
+            </div>
+            <div n="14" type="question">
+               <head>Queſtion 14.</head>
+               <p>Idolatry by the teſtimony of <hi>Paul,</hi> drawing downe heavie plagues upon a People,<note place="margin">Rom 1.18. &amp; ſeq.</note> and delivering them up to a grievous and abominable ſinnes, the worſt of Plagues, whereof he giveth a Catalogue; and actually cauſing the Land of <hi>Canaan</hi> to ſpue out the Inhabitants;<note place="margin">Levit. 20.2.3, 22, 23.</note> Whether it doe not concerne the Magiſtrate to deliver his People from thoſe Plagues, by taking away Idols, the cauſe of them, and to caſt out Idolatry, rather then it ſhould caſt out the People from the Land where he governeth?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. Whether Covetouſneſſe be not as truly Idolatry as worſhiping of falſe gods, how then can we cry out a<g ref="char:EOLhyphen"/>gainſt
+<pb n="24" facs="tcp:43246:15"/>Idolators; the greateſt Idolator cryes out againſt the leſſe.</p>
+                  <p n="2">2. Doth Idolatry with out other Sins bring Plagues upon a Land; and was there not a remedy for the Idola<g ref="char:EOLhyphen"/>try of Gods People (1 <hi>Chron.</hi> 36.) untill they mocked and deſpiſed the Meſſengers of God?</p>
+                  <p n="1">1. Is it not better to inſtruct Idolators and Blaſphemers then knock them in the Heads?</p>
+                  <p n="3">3. If the <hi>Proteſtants</hi> ſhould conquer <hi>France,</hi> what ſhould they doe with all the <hi>Papiſts?</hi>
+                  </p>
+                  <p n="4">4. Was not the Land of <hi>Canaan</hi> and all the People of it Tipicall?</p>
+                  <p n="5">5. Whether all violence in Religion be not for ſome ſiniſter intereſt; <hi>Jehu</hi> pretends Zeale to God, yet having got the Throne of <hi>Jeroboam</hi> to maintaine that Throne he keeps up the worſhip of the Calves.</p>
+                  <p n="6">6. Whether any man can profeſſe to be a Miniſter of Chriſt, and by the rules of Chriſt depend on that for main<g ref="char:EOLhyphen"/>tenance to him and his.</p>
+                  <p n="7">7. By this Tenet many of the Servants of Chriſt have been hunted as the greateſt Hereticks.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. It's true that in the Goſpell there is a clearer diſcovery of the Idolatry of the heart then in the Law; and i's alſo true that in the fifth of <hi>Matthew,</hi> Chriſt makes a clearer diſcovery of the Murther and Adultery of the heart. But <hi>I aſke,</hi> Whether ſince this diſcovery of the Idola<g ref="char:EOLhyphen"/>try Murther and Adultery of the heart <hi>religious Idolatry</hi> (as this Author ſtiles it) may plead non-guilty; the <hi>Rea<g ref="char:EOLhyphen"/>der</hi> for his further ſatisfaction in this caſe may read the eighteenth Queſtion of the worthy <hi>Queſtioniſt.</hi>
+                  </p>
+                  <p n="2">2. <hi>I aſke,</hi> whether Covetouſneſſe is worſe Idolatry then Religious worſhiping of a falſe god; many interpret the place, Covetuouſneſſe is as Idolatry, it being the wont of Scripture, when it would ſet out the hainouſneſſe of any
+<pb n="25" facs="tcp:43246:15"/>ſin to compare it to this great ſin Idolatry; Covetouſ<g ref="char:EOLhyphen"/>neſſe is Idolatry by by reduction, the other direct Idolatry.</p>
+                  <p>
+                     <hi>Ad.</hi> 2.1. Idolatry is uſually accompanied with other ſins.</p>
+                  <p n="2">2. If Idolatry was added to the many crying Sinnes of this Nation it might make us ripe for Judgement.</p>
+                  <p n="3">3. Its not aſſerted that the committing of a Sin ſhuts a man out of the Church, but it's obſtinacy and pertinacy in his fault that makes him liable to cenſures; and the Magiſtrate is to try by faire meanes to reduce ſuch as are out of the way, but if they will not be reclaimed but de<g ref="char:EOLhyphen"/>ſpiſe the Meſſengers and goe on perverting others, the Magiſtrate is to inflict puniſhments upon them.</p>
+                  <q>
+                     <l>Cuncta prius tentanda, ſed Immedicabile vulnus</l>
+                     <l>Enſe recidendum, ne pars ſincera trahatur.</l>
+                  </q>
+                  <p>
+                     <hi>Ad.</hi> 3. If the <hi>Protestants</hi> ſhould be Maſters of an Idola<g ref="char:EOLhyphen"/>trous Country; none holds that they ſhould kill all the Idolators, but they might take the Prophets of <hi>Baal</hi> (1 <hi>Kin.</hi> 18.40.) and cauſe them to be taught otherwiſe, and not permit carrying of the Idols about ſtreets, &amp;c. The Ma<g ref="char:EOLhyphen"/>giſtrate in ſuch a caſe is not to compell men to become Chriſtians, yet he is to puniſh them for their Blaſpheming 1 <hi>King.</hi> 20.23.</p>
+                  <p>
+                     <hi>Ad.</hi> 4. Suppoſe the <hi>Jewes</hi> to be Tipicall, yet this argu<g ref="char:EOLhyphen"/>ment is of no force, for Idolatry was puniſhable by the morall Law.</p>
+                  <p>
+                     <hi>Ad.</hi> 5. 1. Such reformers as <hi>Jehu</hi> have their zeale byaſſed with intereſt, and that is the reaſon that they are not tho<g ref="char:EOLhyphen"/>rough-reformers, and that they take not heed with al their heart; but having got the Throne of <hi>Jeroboam</hi> their maine end, they care not for pulling down the Calves. But God will viſite the blood of ſuch.</p>
+                  <p n="2">2. <hi>I aſke,</hi> Whether there have not been Reformers that have pulled downe Idols and not for any ſiniſter end, and whether this Author would ſubmit to ſuch reformers.</p>
+                  <p>
+                     <hi>Ad.</hi> 6. This Queſtion is beſides our preſent diſcourſe, yet becauſe this Anſwerer deſires to be corrected of his error in it, for the correction of his error I referre him to 1 <hi>Cor.</hi> 9.14.</p>
+                  <pb n="26" facs="tcp:43246:16"/>
+                  <p>
+                     <hi>Ad.</hi> 7. Its not this Tenet, but the abuſe of it that hath cauſed perſecution againſt the Saints: ſo likwiſe that Tenet of puniſhing Murtherers by death, hath taken out of the Land of the living many an Innocent: But theſe abuſes cannot be brought as an Argument to deſtroy the things themſelves; for this Anſwerer confeſſeth in the thirty ninth page of his Books, that no man can be ſo void of reaſon as from Abuſes and Corruptions to deſtroy a true Chriſtian conſtitution.</p>
+               </div>
+            </div>
+            <div n="15" type="question">
+               <head>Queſtion 15.</head>
+               <p>Whether this <hi>Examiner</hi> doe not directly ſet himſelfe to confute the Apoſtle;<note place="margin">Sect. <hi>9.</hi>
+                  </note> 
+                  <hi>Paul</hi> for the <hi>Examiner</hi> argues that it is not eaſie to find that the Heathen ſhould not make a graven Image, nor any marvell that they ſhould by the forme of ſome Creature repreſent the inviſible Being, and worſhip him in the forme of ſuch a repre<g ref="char:EOLhyphen"/>ſentation. But <hi>Paul</hi> juſt on the contrary proveth, That by the things that are made and ſeen,<note place="margin">Rom. 1.</note> the inviſible things of God, even his eter<g ref="char:EOLhyphen"/>nall power and God-head are ſo manifeſt, that they are without ex<g ref="char:EOLhyphen"/>cuſe who knowing God doe not juſtifie him as God, but change the glory of the Incorruptible God into an Image made like to corrupti<g ref="char:EOLhyphen"/>ble Man, and to Birds and foure footed Beaſts. But this brings to mind that ſaying concerning Idols; That have eyes and ſee not, and they that worſhip them are like them, and ſo are thoſe that plead for them?</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. The <hi>Examiner</hi> is unchrſtianly dealt withall in this queſtion.</p>
+                  <p n="2">2. If it be ſo eaſie to eſcape Idolatry how comes it to paſſe that there are ſo many Idolators, and that Gods People have ſo often fallen into Idolatry?</p>
+                  <p n="3">3. Since there are may ways of worſhip in this Nation, as <hi>Presbiters</hi> &amp; <hi>Independency,</hi> &amp;c. and all of them are carved Images except that which Chriſt hath appointed, and yet Gods People have an hand in erecting them: <hi>I aſke,</hi> Whether it be not eaſier for the <hi>Indians</hi> to erect Images of Gold.</p>
+               </div>
+               <div type="reply">
+                  <pb n="27" facs="tcp:43246:16"/>
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. If the <hi>Examiner</hi> purſues a Tenet that thwarts the Scripture, it is Chriſtian to deale plainly with him, and tell him that he ſets himſelfe againſt the Scripture: re<g ref="char:EOLhyphen"/>buke them ſharply that they may be ſound in the faith.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. 1. The Queſtioner doth not ſay its eaſie to eſ<g ref="char:EOLhyphen"/>cape Idolatry, but that its eaſie to find out that the Hea<g ref="char:EOLhyphen"/>then ſhould not make Idols. There is great difference be<g ref="char:EOLhyphen"/>twixt finding out a vice, and eſcaping a vice: Many a Theefe can eaſily find out that theft is a vice; yet cannot ſo eaſily eſcape it.</p>
+                  <p>By this it plainly appears that the divers Queſtions ur<g ref="char:EOLhyphen"/>ged to prove that it's not eaſie for the Nations to eſcape I<g ref="char:EOLhyphen"/>dolatry, are nothing to the purpoſe, but heaps of coward<g ref="char:EOLhyphen"/>ly Sophiſtry, changing the Queſtion becauſe he can<g ref="char:EOLhyphen"/>not Anſwer.</p>
+                  <p n="2">2. I grant, it's more eaſie to be an Idolator then a true worſhipper of God, for it's difficult to worſhip in Spirit and truth: Hence it's (becauſe Idolatry is eaſie and car<g ref="char:EOLhyphen"/>nall) that there are ſo many Idolators.</p>
+                  <p n="3">3. It's eaſie to find out Murther is a Sin; yet (according to this Authors Logick) <hi>Iaſke,</hi> how it came to paſſe that <hi>David</hi> fell into this Sin?</p>
+                  <p>
+                     <hi>Ad.</hi> 3. <hi>Iaſke,</hi> whether <hi>Presbitery Indep.</hi> &amp;c. which deſtroy no fundamentals be ſo groſſe as Idolatry; or be ſo eaſily to be diſcerned for true or falſe, as Idolatry which is contra<g ref="char:EOLhyphen"/>ry to the light of Nature.</p>
+               </div>
+            </div>
+            <div n="16-18" type="questions">
+               <head>Queſtion 16.17.18.</head>
+               <p>Whether Idolatry may not be puniſhed;<note place="margin">Sect. <hi>5.</hi>
+                  </note> becauſe the Magiſtrate doth not know the heart of the Idolators? And whether this reaſon do not directly oppoſe that Law of God which puniſht Idolatry, and the execution agreeable to that Law; when thoſe that worſhipt the Calfe were ſlain by the command of <hi>Moſes;</hi> and the worſhippers of <hi>Baal</hi> by <hi>Jehu;</hi> and the Prophets of <hi>Baal</hi> by <hi>Elias.</hi>
+               </p>
+               <pb n="28" facs="tcp:43246:17"/>
+               <p>17. Whether Idolaters may not be convicted by outward actions, pro<g ref="char:EOLhyphen"/>feſſions and confeſſions;<note place="margin">Sect. <hi>5.</hi>
+                  </note> and thereby the heart of an Idolator diſco<g ref="char:EOLhyphen"/>vered, as well as the heart of a Man-killer? For ſuch a one is con<g ref="char:EOLhyphen"/>demned behauſe of Malice in his heart; without which it were not Murder nor he a Murderer?</p>
+               <p>18. <hi>If two ſinnes be of a hainous Nature and both deſerve puniſh<g ref="char:EOLhyphen"/>ment,</hi>
+                  <note place="margin">Sect. <hi>5.</hi>
+                  </note> Whether one that can be diſcerned ſhould be ſpared, becauſe the other is not puniſhed for want of diſcerning; yea, whether of both may be diſcerned and puniſhable, yet neither ſhould be puniſht, be<g ref="char:EOLhyphen"/>cauſe both are not.</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. Whether thoſe examples of puniſhing the worſhip<g ref="char:EOLhyphen"/>pers of the Calfe are preſidentiall; if theſe example be pre<g ref="char:EOLhyphen"/>ſidentiall, Its the duty of the Magiſtrate to deſtroy the greateſt part of the world.</p>
+                  <p n="2">2. As to the inſtance of Murther there is a threefold difference betweene civill crimes againſt the State and ſpirituall crimes againſt God.</p>
+                  <p n="1">1. There were never any in the world but by the darke light of Nature they have condemned theſe foure Sins, Murther, Adultery, Theft, Lying.</p>
+                  <p n="2">2. Thoſe foure are eaſily convinced and aſhamed, they cannot but confeſſe themſelves ſinners.</p>
+                  <p n="3">3. Without puniſhing the foure former it's impoſſible men ſhould live as men.</p>
+                  <p n="4">4. To the puniſhing of Idolatry is the tow edged ſword of no eſtirnation is the delivering up of the Nations to unnaturall luſts, <hi>Rom.</hi> 1. no terror with us.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. 1. The alledged examples (ſuppoſe them to be Tipicall) are ſufficient to prove that an Idolator may be puniſhed though a magiſtrate knows not his heart, and
+<pb n="29" facs="tcp:43246:17"/>the Examples are alledged to no other purpoſe.</p>
+                  <p n="2">2. Let the <hi>Reader</hi> obſerve how this Anſwerer nibbles about the ſides of theſe Queſtions nad dares not meddle with the body of them. And indeed it's his uſuall courſe to ſpeak againſt ſome one part of the Queſtion, and he ſeldome meddles with the connexion that tyes the parts of the Queſtion together, wherein lies the ſtrength of moſt of the Queſtions, for as much as they are Hypotheticall.</p>
+                  <p n="3">3. That it's the duty of the Magiſtrate to deſtroy the greateſt part of the world cannot be gathered from the former Examples: For we read (1 <hi>King.</hi> 18.39.) in that ge<g ref="char:EOLhyphen"/>nerall defection of the People, all were not deſtroyed but onely the Ring-leaders: and <hi>I aſke,</hi>
+                  </p>
+                  <p>How conſequence can be gathered hence for the puniſh<g ref="char:EOLhyphen"/>ing of ſuch Nations, as the <hi>Moabites;</hi> for this is contrary to <hi>Davids</hi> practiſe, which this Anſwerer urgeth before.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. 1. In Anſwer to the firſt difference alledged, I ſay he contradicts himſelfe in ſaying, that all Nations in the World condemne Murther, for in pag. 51. of his booke he ſaith that the <hi>Mexicans</hi> murther many thouſand Infants to their Dieties, &amp;c. What are not the <hi>Mexicans</hi> in the World: Againe, ſure this Author never heard of Man-eaters, nor of <hi>Duellers:</hi> farther, if no crime ſhould be puniſhed by the Magiſtrate, but what hath beene condemned by all Nati<g ref="char:EOLhyphen"/>ons, It's plain Murther ſhould not be puniſhed.</p>
+                  <p n="2">2. In anſwer to his ſecond difference, <hi>I aſke,</hi> whether many reſolute Theeves have not been hanged in <hi>England,</hi> that would not confeſſe their fault: I beleeve if Idolatry was puniſhed as Murther is, many Idolators and Hereticks would recant, yet I doe not deny but that ſome Idolators in their gallantry might give their Bodies to be burnt.</p>
+                  <p n="3">3. In Anſwer to his third I ſay, without puniſhing Ido<g ref="char:EOLhyphen"/>latry and Hereſie, it's as impoſſible men ſhould live as Chriſtians, 1 <hi>Tim.</hi> 2.2.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. 1. That of the two edged Swords is formerly anſwered.</p>
+                  <p n="2">2. <hi>I aſke,</hi> whether adding Adultery to Murther, ought
+<pb n="30" facs="tcp:43246:18"/>to free that Murtherer from the civill Sword: Gods pu<g ref="char:EOLhyphen"/>niſhing with ſpirituall judgements ſhould rather awaken the Judges of the Earth to execute Judgement.</p>
+               </div>
+            </div>
+            <div n="19" type="question">
+               <head>Queſtion 19.</head>
+               <p>Whether <hi>Aſa</hi> did well in forbidding Idolatrous worſhip, and bringing the People into a Covenant with God;<note place="margin">Sect. <hi>22.</hi>
+                  </note> ſince (as the <hi>Exa<g ref="char:EOLhyphen"/>miner</hi> ſaith) he might thereby have made many to turne Hipocrits: when yet the Scripture ſaith, that they ſware with all their heart and ſought God with their whole deſire?<note place="margin">2 Chr 15</note> And though Hypocriſie ſhould follow ſuch boly commands, whether the fault of Hypocriſie be not from the Corruption of the Hypocrite,<note place="margin">Rom. 7.12.13</note> and not at all from a holy and good Command.</p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. It was no guilt of Hypocriſie in <hi>Aſa</hi> to compell that whole Nation, but now to force thouſands to a Religi<g ref="char:EOLhyphen"/>on their Fathers knew not; fils a Nation with Hipocriſie.</p>
+                  <p>There is a twofold Hipocriſie, that which is more hid<g ref="char:EOLhyphen"/>den and ſecret as <hi>Achitophels</hi> with <hi>David;</hi> that which is more open, as that of the ten Tribes profeſſing the name of the God of <hi>Iſrael,</hi> and yet with all the worſhip of the Calves; Is not this the ſtate of a thouſand named Chriſti<g ref="char:EOLhyphen"/>ans profeſſing Chriſt in word but in workes denying him, over-ſpread with Abominations and I dolatries.</p>
+                  <p n="2">2. To force the Ignorant prophane Nations into a pre<g ref="char:EOLhyphen"/>tended holy fellowſhip with God, is more then to force into the Beds of men of Honour impudent Whores.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. 1. It was no guilt of Hipocriſie in <hi>Aſa</hi> for it's ſaid <hi>the People ſwore with all their heart:</hi> but <hi>I aſke</hi> this Anſwerer, Whether <hi>Joſiah</hi> was guilty of Hipocriſie of the People that turned fainedly unto the Lord, whether if the Magiſtrate (Gods vicegerent) and the good Laws he makes and exe<g ref="char:EOLhyphen"/>cute
+<pb n="31" facs="tcp:43246:18"/>be the cauſe of Hipocriſie, God &amp; his Law may not be ſaid to be guilty of Hipocriſie? whether good commands be not to be executed, notwithſtanding the Hipocriſie that may follow, in regard that ſome men onely yeeld out<g ref="char:EOLhyphen"/>ward conformity: whether God for the outward refor<g ref="char:EOLhyphen"/>ming of ſome Magiſtrates hath not ſpared a Nation for their time, and afterwards puniſhed the Nation for their Hipocriſie: which clearly ſhews that if the heart of a Ma<g ref="char:EOLhyphen"/>giſtrate be upright in reforming, he is not guilty of Hi<g ref="char:EOLhyphen"/>pocriſie, though his people hipocrititally conform, &amp;c.</p>
+                  <p n="2">2. Its not deſired that men ſhould be forced to a Reli<g ref="char:EOLhyphen"/>gion their Fathers, knew not, but that they might be kept from Idolatry and Hereſie.</p>
+                  <p n="3">3. The Magiſtrate may prevent this open Hipocriſie of denying God in their worke by puniſhing thoſe Abo<g ref="char:EOLhyphen"/>minations: <hi>Iaſke,</hi>
+                  </p>
+                  <p>Whether a Magiſtrate puniſhing theſe Abominations would by that means fill a Nation with Hipocriſie of this latter ſort; whether <hi>Aſa</hi> his forbidding Idolatrous wor<g ref="char:EOLhyphen"/>ſhip filled the Nation with the worſhip of the Calves: I think Nations are filled with Hipocriſie of this latter ſort be the Magiſtrate not exerciſing his power to reſtraine them.</p>
+                  <p n="4">4. In that firſt Chapter of <hi>Titus</hi> quoted by this Anſwe<g ref="char:EOLhyphen"/>rer, the reaſon is given why ſo many Profeſſors denyed God in their works, and it was, becauſe the mouthes of Seducers were not ſtopt, and ordained Elders ſet up a<g ref="char:EOLhyphen"/>mongſt the <hi>Cretians;</hi> ſo that the Magiſtrates ſetting up an able Miniſtry and ſtopping the mouths of Seducers need not feare the filling of his Nation with Hipocriſie.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. 1. <hi>I aſke,</hi> Who pleads for the forcing of Ignorant prophane men into fellowſhip with God; It's only deſired that they may be taugh the Law of the Lord; I hope this is no defiling the bed of Chriſt.</p>
+                  <p n="2">2. Whether he that pleads for the permitting of Spiri<g ref="char:EOLhyphen"/>tuall whoredomes and abominations amongſt Chriſtians is not guilty of this crime?</p>
+               </div>
+            </div>
+            <div n="20" type="question">
+               <pb n="32" facs="tcp:43246:19"/>
+               <head>Queſtion 20.</head>
+               <p>Whether the parts and portions of Scripture that contain Princi<g ref="char:EOLhyphen"/>ples neceſſary to Salvation,<note place="margin">Sect. <hi>9.</hi>
+                  </note> deſerve to be called meerly by the Name of Formes, and much leſſe to be deſpiſed under that Name? And conſequently whether the <hi>Examiner</hi> think it fit upon the title of Formes to deſpiſe the Pinciples of the Doctrine of <hi>Chriſt</hi> mentioned by the Author to the <hi>Hebrews?</hi>
+                  <note place="margin">Heb. 6.1.</note>
+               </p>
+               <div type="answer">
+                  <head>The Summe of the ſeverall Anſwers.</head>
+                  <p n="1">1. The words of the <hi>Examiner</hi> are only theſe (<hi>viz.</hi> do you yet make ſo much of Forms as to force men to bow down to them) from which words cannot be gathered that he cals any principle of Salvation a Forme or deſpiſeth it under that name: His words ſeeme to note that there are many forms of worſhip, and that every Sect is apt to force others to bow downe to his Forme.</p>
+                  <p n="2">2. <hi>Papiſt</hi> and <hi>Proteſtant</hi> talke of Principles neceſſary to Salvation, and yet binde up all in one, To beleeve as the Church beleeves.</p>
+                  <p n="3">3. Divers reckon up many fundamentals, yet <hi>I aſke</hi> what we think of the ſhort word the <hi>Lord Jeſus,</hi> and howſoe<g ref="char:EOLhyphen"/>ver ſome grant that a diſtinct knowledge of Chriſt is ne<g ref="char:EOLhyphen"/>ceſſary to Salvation; yet we know what is extant of a poſſibility of Salvation without a diſtinct knowledge of Chriſt. <hi>I aſke,</hi> Whether it be not dangerous to ſet a bound of ſo much knowledge (as to the degrees of it) without which there is no Salvation.</p>
+                  <p n="4">4. Forms of worſhip are uſually without the power of godlineſſe; yet I acknowledge there have been encreaſings of light in Nationall reformings; and I am farre from i<g ref="char:EOLhyphen"/>magining that people ſhould hold nothing and doe no<g ref="char:EOLhyphen"/>thing, but I deſire men ſhould examine the Scripture and hold faſt to the death that which they have received from the Father of lights; And yet better ſit ſtill, then ſtill riſe and fall.</p>
+                  <p>Have all the Spirit, the calling, the preſence of God with them as the Apoſtles had; were it not better for us to ac<g ref="char:EOLhyphen"/>knowledge
+<pb n="33" facs="tcp:43246:19"/>how naked and blind we are, and to liſten to the councell of Chriſt.</p>
+                  <p n="5">5. What Chriſtanity is that which commands that no Doctrine be Preached but what the civill ſword ſhall ſay is true and Orthodox.</p>
+               </div>
+               <div type="reply">
+                  <head>Reply.</head>
+                  <p>
+                     <hi>Ad.</hi> 1. 1. <hi>I aſke</hi> whether, if Idolatry and Hereſie be di<g ref="char:EOLhyphen"/>rectly againſt the fundamentals or principles of Salvation, the <hi>Examiner</hi> ſpeaking the fore quoted words in behalfe of Idolators and Hereticks, doth not call the principles of Salvation Formes and deſpiſe them under that name.</p>
+                  <p n="2">2. Though there be many forms of worſhip, as <hi>Presbi<g ref="char:EOLhyphen"/>ters, Independents,</hi> &amp;c. yet I hope Idolatry cannot be called a forme of worſhip, for it's placed in direct oppoſition to worſhip by the Apoſtle, <hi>viz.</hi> they turned from Idols to ſerve the true and living God.</p>
+                  <p>
+                     <hi>Ad.</hi> 2. <hi>I aſke,</hi> whether it be not one maine point wherein the <hi>Protestant</hi> differs from the <hi>Papiſt, viz.</hi> not to beleeve as the Church beleeves.</p>
+                  <p>
+                     <hi>Ad.</hi> 3. 1. I doe not know what this Author thinkes of this one name, <hi>Chriſt Jeſus;</hi> for he doth not know himſelfe whether to make it a fundamentall or no; as appeares from his doubtfull ſpeeches.</p>
+                  <p>But the Scripture ſaith there is no other name given under Heaven whereby we muſt be ſaved, and no man can lay any other foundation.</p>
+                  <p n="3">3. It's very dangerous to limit ſaving knowledge as to the degrees of it: but as to limit this knowledge as to the heads or parts of it, there is no danger. Now when we ſpeake of principles of Salvation, we ſpeake meerly of the heads or parts of ſaving knowledge, but not at all of the degrees of theſe parts.</p>
+                  <p>
+                     <hi>Ad.</hi> 4.2. If there have been ſeverall encreaſings of light in Reforming, why ſhould the Children of the light hinder Reformation? This ſhould rather be a worke of the Chil<g ref="char:EOLhyphen"/>dren
+<pb n="34" facs="tcp:43246:20"/>of darkneſſe, who cannot abide the Light becauſe their works are evil.</p>
+                  <p n="2">2. This Author ſeems to be in a good mind, he would have the People hold ſomething, and doe ſomething, but he is of another mind quikly, <hi>aliud ſtans, aliud ſedens cogitat,</hi> for in the next words he thinks it better to ſit ſtill then ſtill to riſe and fall: I am not of this mans mind, I ſhould rather chooſe to goe halting and ſtumble now and then, then not to goe at all. And further, I thinke every man is bound to act according to his light; &amp; though he have not the Spirit, to act as far as the light of Nature and Reaſon will carry him, Its but a proud Tenet to be no body or elſe the beſt; and againe, a man may be illighted by the ſpirit though no ſaving work which light may further him in actions of ſuch a Nature.</p>
+                  <p>But more particularly <hi>I aſke,</hi>
+                  </p>
+                  <p>1. Whether Magiſtrates have not a calling, and alſo the preſence of God amongſt them.</p>
+                  <p>2. Whether God hath not promiſed to be with the Mi<g ref="char:EOLhyphen"/>niſtry to the end of the world.</p>
+                  <p>3. This is good councell, we deſire that no mans Inven<g ref="char:EOLhyphen"/>tions might be ſet up but that Chriſt and his Word might be the onely Councellors.</p>
+                  <p>
+                     <hi>Ad.</hi> 5. This is falſe, no ſuch thing aſſerted but the con<g ref="char:EOLhyphen"/>trary, <hi>viz.</hi> that the Magiſtrate take care that no Doctrine be preached but what the Scripture ſhall ſay is true.</p>
+               </div>
+            </div>
+            <div n="22" type="question">
+               <head>Queſtion 22.</head>
+               <p>
+                  <hi>If God was to be Bleſt,</hi>
+                  <note place="margin">Ezr. 7.27.</note> 
+                  <hi>for putting into the Heart of a Heathen Magiſtrate to make Laws for the advancement of true Religion; Whether he doth not come neer to a curſe that would take out of the Heart oj a Chriſtian Magiſtrate the advancement of true Religion, and perſwade him to give a Toleration to the chiefe Enemies of Re<g ref="char:EOLhyphen"/>ligion, Idolatry and Hereſie.</hi>
+               </p>
+               <p>This <hi>Anſwerer</hi> ſaith, that the Propoſer highly eſteemes this example of <hi>Ezra</hi> 7. for he is not content to mention
+<pb n="35" facs="tcp:43246:20"/>it in the ſeventh Queſtion, but he brings it in againe at laſt. I wonder this man is given ſo much to cavilling; let the <hi>Reader</hi> judge whether <hi>Ezra</hi> 7. be not brought in here to another purpoſe then its in the ſeventh Queſtion.</p>
+               <p>And let the <hi>Reader</hi> obſerve how highly this man e<g ref="char:EOLhyphen"/>ſteemes 1 <hi>Cor.</hi> 10. <hi>Col.</hi> 2. indeede every thing he ſaith, for he hath ſcarſe an Argument in his Booke, but he babbles it over and over againe, and when he hath no way left to bring in his old Traind-Band of Ar<g ref="char:EOLhyphen"/>guments, you ſhall have them with an <hi>omitto</hi> uſherd in, &amp;c. or not to reſpect what hath been ſaid before, or the like, and then he tels all his old taile.</p>
+               <p>But he tels us that to this Queſtion he'le adde ſome new Queres, but he makes a falſe Muſtam, for theſe are but old ones fetcht up againe for to make up a number.</p>
+               <p>For, as for his firſt Quere that he ſaith he'le adde, we have this Quere before in <hi>Pag.</hi> 74. and againe in <hi>Pag.</hi> 78. and elſe where: His ſecond Quere by way of addi<g ref="char:EOLhyphen"/>tion, we have before in <hi>Pag.</hi> 31. His third we have often before in his booke, &amp;c.</p>
+               <p>I ſhall make an end deſiring God, that he would ſtirre up thr Magiſtrate to put forth his power for encourage<g ref="char:EOLhyphen"/>ment of the true Religion; for as long as People are kept at this paſſe, that they will have no King nor Ruler in <hi>Iſ<g ref="char:EOLhyphen"/>rael,</hi> every man will doe what is good in his owne eyes.</p>
+               <p>And thoſe that cut off the Magiſtrate from acting in Eccleſiaſticks, will at laſt ſuſpect the Magiſtrates power in Civils: This Author ſeemes to become ſo far as to ſuſpect a Murtherous ſnare in the Law againſt Theeves and Whores, ſeeing that theſe Lawes fall often upon honeſt chaſt Perſons.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
